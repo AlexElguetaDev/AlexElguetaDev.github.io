@@ -30,6 +30,13 @@ html{
     font-size: 36px;
     text-decoration: none;
 }
+.contenedor-header header .logo p{
+    font-family: 'Righteous';
+    color: azure;
+    display: inline-block;
+    font-size: 36px;
+    text-decoration: none;
+}
 .contenedor-header header ul{
     display: flex;
     list-style: none;
